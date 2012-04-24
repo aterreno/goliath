@@ -1,1 +1,0 @@
-ruby goliath.rb -sv
